@@ -180,6 +180,7 @@ broker:
   config: ""
 
   store:
+    storageClass: "default"
     data:
       size: 10Gi
     log:
